@@ -1,0 +1,12 @@
+venv
+notes
+tests
+info
+*.session
+myconfig.ini
+__pycache__
+Dockerfile
+model
+db
+input.py
+*.svg
